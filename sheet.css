@@ -1,6 +1,27 @@
 *{
-background: red;
+background: #ffff00;
 margin: 0;
 padding: 0;
 list-style: none;
 }
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    background: red;
+    
+}
+header ol{
+    display: flex;
+}
+
+header a{
+    display: flex;
+    padding: 10px;
+    text-decoration: none;
+    color: blue;
+    text-transform: uppercase;
+    
+}
+
