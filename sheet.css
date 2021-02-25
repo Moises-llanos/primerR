@@ -28,5 +28,11 @@ header a{
 p {
     color: blue;
     font-family: initial;
+    font-weight: 900;
+}
+
+h1,
+h2{
+    color: blue;
 }
 
