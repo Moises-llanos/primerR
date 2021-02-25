@@ -36,3 +36,13 @@ h2{
     color: blue;
 }
 
+fieldset{
+    border: none;
+}
+input,
+.file{
+    border: 1px solid gray;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+}
+
